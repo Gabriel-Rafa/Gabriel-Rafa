@@ -1,39 +1,37 @@
-## 👋 Olá! Eu sou o Gabriel Rafa
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+
+## 👋 Opaaa! Eu sou Gabriel Rafá!
+
+
+
+</div>
+<!-- GIF mais abaixo e menor -->
+<img 
+  align="right" 
+  alt="Meu GIF" 
+  height="100" 
+  style="border-radius:50px; margin-top: 40px;" 
+  src="https://i.imgur.com/dlkkinQ.gif">
+
+</div>
 
 🎓 Estudante de Ciência da Computação - UFPB  
-💻 Apaixonado por desenvolvimento e automação  
+💻 Aficionado por desenvolvimento e automação  
 🚀 Buscando sempre aprender novas tecnologias
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div style="display: flex; align-items: center; gap: 100px;"> <!-- Aumentei o gap para 100px -->
-  <div style="margin-right: 60px;">
-    <img src="https://github-readme-stats-zeta-drab-19.vercel.app/api?username=Gabriel-Rafa&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-stats-zeta-drab-19.vercel.app/api/top-langs/?username=Gabriel-Rafa&layout=compact&theme=radical" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rafa&theme=radical" alt="GitHub Streak">
-  </div>
+  
+  
+  ### Minhas Skills:
   <div>
     <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+
+
+### Estudando no momento:
+  <div>
     <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </div>
-</div>
-
----
-
-### 📈 Atividade recente
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabriel-Rafa&theme=radical)
-
----
-
-### 📌 Repositórios em destaque
-
-- [📁 github-readme-stats](https://github.com/Gabriel-Rafa/github-readme-stats) — Estatísticas para seu perfil do GitHub
-- [📁 nome-do-projeto](https://github.com/Gabriel-Rafa/nome-do-projeto) — Descreva brevemente o projeto aqui
-
+  
 ---
 
 <div style="margin-top: 40px;"> <!-- Espaço entre as seções -->
@@ -53,3 +51,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+
