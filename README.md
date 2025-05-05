@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00008B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opaaa!+👋🏻;+Eu+sou+Gabriel+Rafá!;" />
 </h1>
 
-## 👋🏻 Opaaa! Eu sou Gabriel Rafá!
-
-
-
 </div>
 <!-- GIF mais abaixo e menor -->
 <img 
