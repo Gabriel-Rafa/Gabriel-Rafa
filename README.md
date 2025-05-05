@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00008B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opaaa!+👋🏻;+Eu+sou+Gabriel+Rafá!;" />
+</h1>
+
 ## 👋🏻 Opaaa! Eu sou Gabriel Rafá!
 
 
